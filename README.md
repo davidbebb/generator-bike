@@ -1,7 +1,15 @@
 Generator bike
 ========
 
-Place holder repo for bike generator
+### Motivation
+
+Problem: as a freelance worker, I work from home alot, and as such don't get as much exercise as I should.
+
+I also dislike wasted effort.
+
+By combining an exercise bike with an electricity generator, I aim to tackle both of these issues.
+
+
 
 ### Useful starting links
 
